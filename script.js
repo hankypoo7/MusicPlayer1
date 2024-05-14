@@ -25,14 +25,7 @@ $(function()
 		name: "Ransom",
 		url: "music/ransom.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
-		,}
-		{
-		artist: "YNW Melly",
-		name: "223s",
-		url: "music/223s.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
-		},
-];
+	}];
 	
 	function shuffle(a) {
 		var j, x, i;
