@@ -245,7 +245,7 @@ $(function()
 
 		selectTrack(0);
 		
-		audio.loop = false;
+		audio.loop = true;
 		
 		playPauseButton.on('click',playPause);
 		
